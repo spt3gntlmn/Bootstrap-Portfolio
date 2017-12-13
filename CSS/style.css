@@ -1,0 +1,162 @@
+body {
+	background-image: url("../images/circles-light.png");
+}
+
+#container1 {
+    background-color: #ffffff;
+
+}
+	nav p {
+	padding: 10px 30px;
+	background-color: #4aaaa5;
+	font-weight: bolder;
+	font-size: 38px;
+	color: white;
+}
+
+ul {
+	padding-top: 35px;
+}
+s
+ul li {
+	border-right: solid 2px lightgrey;
+	font-size: 18px;
+	padding: 0px 10px;
+}
+
+ul li:last-child {
+	border-right: none;
+}
+
+h2 {
+    margin: 15px;
+    padding: 30px 10px 30px 10px;
+    border-bottom: solid 1px lightgrey;
+    width: 600px;
+    font-family: Georgia, Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.aside {
+	/*float: right;*/
+	margin-top: 20px;
+	/*text-align: center;*/
+	padding: 15px;
+	width: 240px;
+	height: 170px;
+	background-color: #ffffff;
+	color: #4aaaa5;
+}
+
+h3 {
+	border-bottom: solid 1px;
+	/*padding: 25px;*/
+}
+
+#footer {
+	color: #FFFFFF;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	z-index: 2;
+	border-top: solid 6px teal;
+	padding-top: 20px;
+	text-align: center;
+	background-color: #666666;
+	width: 100%;
+	clear: both;
+}
+
+.pic {
+ 	position: relative;
+}
+
+ .pic1 {
+ 	/*left: 15px;*/
+	max-height: 300px;
+	max-width: 300px;
+}
+
+ .pic2 {
+ 	/*left: 335px;*/
+ 	/*top: -300px;*/
+	max-height: 300px;
+	max-width: 300px;
+}
+
+.pic3 {
+ 	left: 15px;
+ 	top: -280px;
+	max-height: 300px;
+	max-width: 300px;
+}
+
+ .pic4 {
+ 	left: 335px;
+ 	top: -580px;
+	max-height: 300px;
+	max-width: 300px;
+}
+
+.pic5 {
+ 	left: 15px;
+ 	top: -560px;
+	max-height: 300px;
+	max-width: 300px;
+}
+
+ .pic6 {
+ 	left: 335px;
+ 	top: -860px;
+	max-height: 300px;
+	max-width: 300px;
+}
+
+.banner {
+	position: absolute;
+	height: 40px;
+	width: 300px;
+	z-index: 1;
+	background-color: #4aaaa5;
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+	padding-top: 20px;
+}s
+
+.banner1 {
+    left: 15px;
+    top: 375px;
+}
+
+
+.banner2 {
+    left: 335px;
+    top: 375px;
+}
+
+
+.banner3 {
+    left: 15px;
+    top: 695px;
+}
+
+
+.banner4 {
+    left: 335px;
+    top: 695px;
+}
+
+
+.banner5 {
+    left: 15px;
+    top: 1015px;
+}
+
+
+.banner6 {
+    left: 335px;
+    top: 1015px;
+}
